@@ -16,6 +16,7 @@
   <img src= "https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src= "https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src= "https://img.shields.io/badge/Apache Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white"/>
+  <img src= "https://img.shields.io/badge/Apache Hive-FDEE21?style=for-the-badge&logo=ApacheHive&logoColor=white"/>
 <hr>
 
 <h2>🛠 Tool Stack 🛠</h2>
