@@ -36,7 +36,7 @@
 <p>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=rrkcl7733&show_icons=true&count_private=true&theme=tokyonight)![](https://github-readme-stats.vercel.app/api/top-langs/?username=rrkcl7733&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rrkcl7733&show_icons=true&count_private=true&theme=tokyonight)
 <br>
 <hr>
 <br>
